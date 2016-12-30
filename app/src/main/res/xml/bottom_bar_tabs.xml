@@ -1,0 +1,28 @@
+<tabs>
+    <tab
+        id="@+id/tab_informasi"
+        icon="@drawable/ic_notifications_none"
+        title="Informasi"
+        activeColor="@color/colorPrimaryDark"
+        />
+    <tab
+        id="@+id/tab_pertandingan"
+        icon="@drawable/ic_content_paste"
+        title="Pertandingan"
+        activeColor="@color/colorPrimaryDark" />
+    <tab
+        id="@+id/tab_cabang_olahraga"
+        icon="@drawable/ic_assignment"
+        title="Cabor"
+        activeColor="@color/colorPrimaryDark"/>
+    <tab
+        id="@+id/tab_medali"
+        icon="@drawable/ic_medal"
+        title="Medali"
+        activeColor="@color/colorPrimaryDark" />
+    <tab
+        id="@+id/tab_sejarah"
+        icon="@drawable/ic_local_movies"
+        title="Sejarah"
+        activeColor="@color/colorPrimaryDark"/>
+</tabs>
