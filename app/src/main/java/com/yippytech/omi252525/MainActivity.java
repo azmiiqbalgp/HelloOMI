@@ -3,19 +3,20 @@ package com.yippytech.omi252525;
 import android.os.Bundle;
 import android.support.annotation.IdRes;
 import android.support.annotation.Nullable;
+import android.support.v4.app.Fragment;
 import android.support.v7.app.AppCompatActivity;
 import android.widget.TextView;
 
 import com.crashlytics.android.Crashlytics;
 import com.roughike.bottombar.BottomBar;
 import com.roughike.bottombar.OnTabSelectListener;
+import com.yippytech.omi252525.view.InformasiActivity;
 
 import io.fabric.sdk.android.Fabric;
 
 public class MainActivity extends AppCompatActivity {
 
     private TextView textView;
-
     private BottomBar bottomBar;
 
     @Override
@@ -36,7 +37,7 @@ public class MainActivity extends AppCompatActivity {
                 } else if (tabId == R.id.tab_pertandingan) {
                     // The tab with id R.id.tab_groups was selected,
                     // change your content accordingly.
-                    textView.setText("Coming soon pertandingan");
+                    commitFragment(new InformasiActivity());
                 } else if (tabId == R.id.tab_cabang_olahraga) {
                     // The tab with id R.id.tab_chats was selected,
                     // change your content accordingly.
@@ -52,5 +53,11 @@ public class MainActivity extends AppCompatActivity {
                 }
             }
         });
+    }
+
+    private void commitFragment(Fragment fragment){
+        android.support.v4.app.FragmentTransaction fragmentTransaction = getSupportFragmentManager().beginTransaction();
+        fragmentTransaction.replace(R.id.contentContainer, fragment);
+        fragmentTransaction.commit();
     }
 }
