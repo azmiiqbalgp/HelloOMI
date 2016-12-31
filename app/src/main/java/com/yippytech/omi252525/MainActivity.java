@@ -4,6 +4,7 @@ import android.os.Bundle;
 import android.support.annotation.IdRes;
 import android.support.annotation.Nullable;
 import android.support.v4.app.Fragment;
+import android.support.v4.app.FragmentTransaction;
 import android.support.v7.app.AppCompatActivity;
 import android.widget.TextView;
 
@@ -30,6 +31,7 @@ public class MainActivity extends AppCompatActivity {
         bottomBar.setOnTabSelectListener(new OnTabSelectListener() {
             @Override
             public void onTabSelected(@IdRes int tabId) {
+                FragmentTransaction fragmentTransaction = getSupportFragmentManager().beginTransaction();
                 if (tabId == R.id.tab_informasi) {
                     // The tab with id R.id.tab_calls was selected,
                     // change your content accordingly.
@@ -42,9 +44,9 @@ public class MainActivity extends AppCompatActivity {
                 } else if (tabId == R.id.tab_cabang_olahraga) {
                     // The tab with id R.id.tab_chats was selected,
                     // change your content accordingly.
-                    getSupportFragmentManager().beginTransaction()
-                            .replace(R.id.contentContainer, new InformasiActivity())
-                            .commit();
+                    InformasiActivity informasiActivity = new InformasiActivity();
+                    fragmentTransaction.replace(R.id.contentContainer,informasiActivity);
+                    fragmentTransaction.commit();
                 } else if (tabId == R.id.tab_medali) {
                     // The tab with id R.id.tab_chats was selected,
                     // change your content accordingly.
