@@ -34,7 +34,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="fdbbdc7e5976421a48158db92b8201bfb3a5b46c">
+        sha1="853a968cc62842e4c0c5eef5ebb56544425a2d4e">
         <dex dex="/home/ryanbaskara/AndroidStudioProjects/OMI/HelloOMI/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_92e2ba0578bc311f358992b1aab1dded65a0e8b2/classes.dex" />
     </item>
     <item
@@ -205,7 +205,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="ffb540376ef67a297cae4d66327e383089d76876">
+        sha1="5326849518ac1fa32fe8842ab73db5b99c18c0ef">
         <dex dex="/home/ryanbaskara/AndroidStudioProjects/OMI/HelloOMI/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_45f5771ef86901307fa293517f55fe915b5be9e9/classes.dex" />
     </item>
     <item

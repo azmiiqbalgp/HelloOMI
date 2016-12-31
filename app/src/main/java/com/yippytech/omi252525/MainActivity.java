@@ -37,11 +37,14 @@ public class MainActivity extends AppCompatActivity {
                 } else if (tabId == R.id.tab_pertandingan) {
                     // The tab with id R.id.tab_groups was selected,
                     // change your content accordingly.
-                    commitFragment(new InformasiActivity());
+                    //commitFragment(new InformasiActivity());
+                    textView.setText("Coming soon Pertandingan");
                 } else if (tabId == R.id.tab_cabang_olahraga) {
                     // The tab with id R.id.tab_chats was selected,
                     // change your content accordingly.
-                    textView.setText("Coming soon cabang olahraga");
+                    getSupportFragmentManager().beginTransaction()
+                            .replace(R.id.contentContainer, new InformasiActivity())
+                            .commit();
                 } else if (tabId == R.id.tab_medali) {
                     // The tab with id R.id.tab_chats was selected,
                     // change your content accordingly.
