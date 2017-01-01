@@ -24,7 +24,6 @@
             android:name="io.fabric.ApiKey"
             android:value="1b009015e87abf08eb2b26f150e806af9187bbd7" />
 
-        <activity android:name=".view.InformasiActivity"></activity>
     </application>
 
 </manifest>

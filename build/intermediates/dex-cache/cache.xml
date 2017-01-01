@@ -3,12 +3,48 @@
 
     <item
         is-multidex="true"
+        jar="/home/ryanbaskara/AndroidStudioProjects/OMI/HelloOMI/app/build/intermediates/exploded-aar/com.crashlytics.sdk.android/crashlytics-core/2.3.14/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7ff77725723167163d69439e3fd077bd0899babf">
+        <dex dex="/home/ryanbaskara/AndroidStudioProjects/OMI/HelloOMI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.crashlytics.sdk.android-crashlytics-core-2.3.14_d5d521219a84549e33183b9798c56396d3c69f67/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/home/ryanbaskara/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="98476622f10715998eacf9240d6b479f12c66143">
         <dex dex="/home/ryanbaskara/AndroidStudioProjects/OMI/HelloOMI/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_37bc1771ffc6f23c3b35ac73dbde1f01d7c96631/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ryanbaskara/AndroidStudioProjects/OMI/HelloOMI/app/build/intermediates/exploded-aar/com.crashlytics.sdk.android/crashlytics/2.6.5/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="02cc9f2e5899415add52bc716602b6b38e7eeb99">
+        <dex dex="/home/ryanbaskara/AndroidStudioProjects/OMI/HelloOMI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.crashlytics.sdk.android-crashlytics-2.6.5_683071030424bfcd5ed7a0c6b62251d16a38f465/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ryanbaskara/AndroidStudioProjects/OMI/HelloOMI/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/ryanbaskara/AndroidStudioProjects/OMI/HelloOMI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.1_97e8e88d3d7b7d97e283d0e59d47143e5d93918b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ryanbaskara/AndroidStudioProjects/OMI/HelloOMI/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/home/ryanbaskara/AndroidStudioProjects/OMI/HelloOMI/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_2aaab22cfaefba1bcedfdba9533fc2eeda8b8b61/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -30,11 +66,20 @@
     </item>
     <item
         is-multidex="true"
+        jar="/home/ryanbaskara/AndroidStudioProjects/OMI/HelloOMI/app/build/intermediates/exploded-aar/com.roughike/bottom-bar/2.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="32534a05122d0c535cc8b885e45b1e7ce3b0f03e">
+        <dex dex="/home/ryanbaskara/AndroidStudioProjects/OMI/HelloOMI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.roughike-bottom-bar-2.0.2_edbcfeb70246116d08dabfbfffb23f0a3f387170/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/home/ryanbaskara/AndroidStudioProjects/OMI/HelloOMI/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="853a968cc62842e4c0c5eef5ebb56544425a2d4e">
+        sha1="ca744795a5cb4fc30660c7d99e0261da1088f53f">
         <dex dex="/home/ryanbaskara/AndroidStudioProjects/OMI/HelloOMI/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_92e2ba0578bc311f358992b1aab1dded65a0e8b2/classes.dex" />
     </item>
     <item
@@ -45,6 +90,15 @@
         revision="25.0.0"
         sha1="a319fd4d548ba4cc9511561d37109ba922bfbf6a">
         <dex dex="/home/ryanbaskara/AndroidStudioProjects/OMI/HelloOMI/app/build/intermediates/transforms/dex/debug/folders/1000/10/io.fabric.sdk.android-fabric-1.3.14_4b1c57c2b72ecf2db19abb660befcf9b2db4ae98/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ryanbaskara/AndroidStudioProjects/OMI/HelloOMI/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/home/ryanbaskara/AndroidStudioProjects/OMI/HelloOMI/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_d27ba5e87aa89d58eaaef7158f303f267ac31f4e/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -84,128 +138,11 @@
     </item>
     <item
         is-multidex="true"
-        jar="/home/ryanbaskara/AndroidStudioProjects/OMI/HelloOMI/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
-        <dex dex="/home/ryanbaskara/AndroidStudioProjects/OMI/HelloOMI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.1_133822f624edeecc8c29ffc3fa69df912c926e1c/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/ryanbaskara/AndroidStudioProjects/OMI/HelloOMI/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
-        <dex dex="/home/ryanbaskara/AndroidStudioProjects/OMI/HelloOMI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.1_c4e90be588f8becb190d9854b4fcd3f60b720650/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/ryanbaskara/AndroidStudioProjects/OMI/HelloOMI/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
-        <dex dex="/home/ryanbaskara/AndroidStudioProjects/OMI/HelloOMI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.1_d877dcea5c3d9c7d96cb3fb6a3f05ba31fd93000/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/ryanbaskara/AndroidStudioProjects/OMI/HelloOMI/app/build/intermediates/exploded-aar/com.crashlytics.sdk.android/beta/1.2.2/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="b42cf2134829f715edfa2adaf0ee246631322dba">
-        <dex dex="/home/ryanbaskara/AndroidStudioProjects/OMI/HelloOMI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.crashlytics.sdk.android-beta-1.2.2_932131db3109d80d36811103e4dad9bf6841d015/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/ryanbaskara/AndroidStudioProjects/OMI/HelloOMI/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
-        <dex dex="/home/ryanbaskara/AndroidStudioProjects/OMI/HelloOMI/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_42c111336a26b86b2d5dd3dae5c2252e10e376c0/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/ryanbaskara/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
-        <dex dex="/home/ryanbaskara/AndroidStudioProjects/OMI/HelloOMI/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.2.0_08209b5ffad3ca840a009eba1fba295c0c44e961/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/ryanbaskara/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.0.2/f8d87f15b94b8d74e7ccf61d7eedb558811cdb30/converter-gson-2.0.2.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="f8d87f15b94b8d74e7ccf61d7eedb558811cdb30">
-        <dex dex="/home/ryanbaskara/AndroidStudioProjects/OMI/HelloOMI/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.0.2_5ad48ad2ff71b6106714622e7c0019580ccdd743/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/ryanbaskara/AndroidStudioProjects/OMI/HelloOMI/app/build/intermediates/exploded-aar/com.crashlytics.sdk.android/crashlytics-core/2.3.14/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="7ff77725723167163d69439e3fd077bd0899babf">
-        <dex dex="/home/ryanbaskara/AndroidStudioProjects/OMI/HelloOMI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.crashlytics.sdk.android-crashlytics-core-2.3.14_d5d521219a84549e33183b9798c56396d3c69f67/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/ryanbaskara/AndroidStudioProjects/OMI/HelloOMI/app/build/intermediates/exploded-aar/com.crashlytics.sdk.android/crashlytics/2.6.5/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="02cc9f2e5899415add52bc716602b6b38e7eeb99">
-        <dex dex="/home/ryanbaskara/AndroidStudioProjects/OMI/HelloOMI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.crashlytics.sdk.android-crashlytics-2.6.5_683071030424bfcd5ed7a0c6b62251d16a38f465/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/ryanbaskara/AndroidStudioProjects/OMI/HelloOMI/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/home/ryanbaskara/AndroidStudioProjects/OMI/HelloOMI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.1_97e8e88d3d7b7d97e283d0e59d47143e5d93918b/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/ryanbaskara/AndroidStudioProjects/OMI/HelloOMI/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="f83b00041ecfba705603fec40363416c7de69719">
-        <dex dex="/home/ryanbaskara/AndroidStudioProjects/OMI/HelloOMI/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_2aaab22cfaefba1bcedfdba9533fc2eeda8b8b61/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/ryanbaskara/AndroidStudioProjects/OMI/HelloOMI/app/build/intermediates/exploded-aar/com.roughike/bottom-bar/2.0.2/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="32534a05122d0c535cc8b885e45b1e7ce3b0f03e">
-        <dex dex="/home/ryanbaskara/AndroidStudioProjects/OMI/HelloOMI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.roughike-bottom-bar-2.0.2_edbcfeb70246116d08dabfbfffb23f0a3f387170/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/ryanbaskara/AndroidStudioProjects/OMI/HelloOMI/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
-        <dex dex="/home/ryanbaskara/AndroidStudioProjects/OMI/HelloOMI/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_d27ba5e87aa89d58eaaef7158f303f267ac31f4e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/home/ryanbaskara/AndroidStudioProjects/OMI/HelloOMI/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="5326849518ac1fa32fe8842ab73db5b99c18c0ef">
+        sha1="4659094c035e0463bf6955a81a72e759b41acf93">
         <dex dex="/home/ryanbaskara/AndroidStudioProjects/OMI/HelloOMI/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_45f5771ef86901307fa293517f55fe915b5be9e9/classes.dex" />
     </item>
     <item
@@ -237,6 +174,24 @@
     </item>
     <item
         is-multidex="true"
+        jar="/home/ryanbaskara/AndroidStudioProjects/OMI/HelloOMI/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/home/ryanbaskara/AndroidStudioProjects/OMI/HelloOMI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.1_133822f624edeecc8c29ffc3fa69df912c926e1c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ryanbaskara/AndroidStudioProjects/OMI/HelloOMI/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/home/ryanbaskara/AndroidStudioProjects/OMI/HelloOMI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.1_c4e90be588f8becb190d9854b4fcd3f60b720650/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/home/ryanbaskara/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.2/43eeae0b9fb087bb3194ba59ab63a38a32fbf3e/retrofit-2.0.2.jar"
         jumboMode="true"
         optimize="true"
@@ -246,12 +201,39 @@
     </item>
     <item
         is-multidex="true"
+        jar="/home/ryanbaskara/AndroidStudioProjects/OMI/HelloOMI/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/home/ryanbaskara/AndroidStudioProjects/OMI/HelloOMI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.1_d877dcea5c3d9c7d96cb3fb6a3f05ba31fd93000/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/home/ryanbaskara/AndroidStudioProjects/OMI/HelloOMI/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
         <dex dex="/home/ryanbaskara/AndroidStudioProjects/OMI/HelloOMI/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_5ccac1d815d99668d390d6fb42d3b12a4372b5a5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ryanbaskara/AndroidStudioProjects/OMI/HelloOMI/app/build/intermediates/exploded-aar/com.crashlytics.sdk.android/beta/1.2.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b42cf2134829f715edfa2adaf0ee246631322dba">
+        <dex dex="/home/ryanbaskara/AndroidStudioProjects/OMI/HelloOMI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.crashlytics.sdk.android-beta-1.2.2_932131db3109d80d36811103e4dad9bf6841d015/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ryanbaskara/AndroidStudioProjects/OMI/HelloOMI/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/home/ryanbaskara/AndroidStudioProjects/OMI/HelloOMI/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_42c111336a26b86b2d5dd3dae5c2252e10e376c0/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -273,6 +255,15 @@
     </item>
     <item
         is-multidex="true"
+        jar="/home/ryanbaskara/AndroidStudioProjects/OMI/HelloOMI/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/home/ryanbaskara/AndroidStudioProjects/OMI/HelloOMI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.1_6539146a91ae07bf68c061b1c83a0035762494af/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/home/ryanbaskara/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
         jumboMode="true"
         optimize="true"
@@ -282,12 +273,21 @@
     </item>
     <item
         is-multidex="true"
-        jar="/home/ryanbaskara/AndroidStudioProjects/OMI/HelloOMI/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jar="/home/ryanbaskara/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
-        <dex dex="/home/ryanbaskara/AndroidStudioProjects/OMI/HelloOMI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.1_6539146a91ae07bf68c061b1c83a0035762494af/classes.dex" />
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="/home/ryanbaskara/AndroidStudioProjects/OMI/HelloOMI/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.2.0_08209b5ffad3ca840a009eba1fba295c0c44e961/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ryanbaskara/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.0.2/f8d87f15b94b8d74e7ccf61d7eedb558811cdb30/converter-gson-2.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f8d87f15b94b8d74e7ccf61d7eedb558811cdb30">
+        <dex dex="/home/ryanbaskara/AndroidStudioProjects/OMI/HelloOMI/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.0.2_5ad48ad2ff71b6106714622e7c0019580ccdd743/classes.dex" />
     </item>
     <item
         is-multidex="true"
