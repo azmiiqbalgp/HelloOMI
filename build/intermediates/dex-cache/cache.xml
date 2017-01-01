@@ -34,7 +34,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="af6ad3ac5071af37ae2e92036109d359a1cb1e55">
+        sha1="50b1df475bd2e9fef75047edf1a2361ff23c4ad0">
         <dex dex="/home/ryanbaskara/AndroidStudioProjects/OMI/HelloOMI/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_92e2ba0578bc311f358992b1aab1dded65a0e8b2/classes.dex" />
     </item>
     <item
@@ -66,21 +66,21 @@
     </item>
     <item
         is-multidex="true"
-        jar="/home/ryanbaskara/AndroidStudioProjects/OMI/HelloOMI/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.3.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="debf30ce0a7560396b6235edef77e447006454c2">
-        <dex dex="/home/ryanbaskara/AndroidStudioProjects/OMI/HelloOMI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.3.0_9ef229b08ba28ee34a3911bc4b21039b3edf96f6/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/home/ryanbaskara/AndroidStudioProjects/OMI/HelloOMI/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
         <dex dex="/home/ryanbaskara/AndroidStudioProjects/OMI/HelloOMI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.1_4765183ef0c57e63a5125b591b63a3a93456f7b4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ryanbaskara/AndroidStudioProjects/OMI/HelloOMI/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="/home/ryanbaskara/AndroidStudioProjects/OMI/HelloOMI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.0.1_1cd22bba18c79a8e96a6ab5b46f6a26a42bef161/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -205,7 +205,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="d4de9c156fdb44bf632e193cd939a6ab0f07d695">
+        sha1="64c5705745ff5b35489daaaee65da10b8827fe6c">
         <dex dex="/home/ryanbaskara/AndroidStudioProjects/OMI/HelloOMI/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_45f5771ef86901307fa293517f55fe915b5be9e9/classes.dex" />
     </item>
     <item
